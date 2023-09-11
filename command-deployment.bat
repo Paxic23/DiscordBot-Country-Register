@@ -1,0 +1,6 @@
+@echo off 
+title updating commands...
+:START
+cd C:\...
+node deploy-commands.js
+goto START
